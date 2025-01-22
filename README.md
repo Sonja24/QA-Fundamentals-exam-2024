@@ -1,2 +1,2 @@
-# QA-Fundamentals-exam- November 2024
-In this repo are attached HTML, CSS, JSON script files for the QA Fundamentals exam. The exam contained tasks that should have been fulfilled in HTML and CSS like creating simple web pages, concantenation tasks in JS. 
+Within the course QA Fundamentals, the exam contained materials from the first part of the course Software technologies. 
+The folder contains files in HTML, CSS and JS with fuldilled task as creating simple web pages and concantenation tasks in JS.
