@@ -1,0 +1,1 @@
+# QA-Fundamentals-exam-2024
